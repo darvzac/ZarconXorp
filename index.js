@@ -8,7 +8,7 @@ app.listen(port, () => console.log(`ZarconXorp listening at http://localhost:${p
 
 
 const { default_prefix, config, prefix } = require("./configs/config.json");
-const fetch = require("node-fetch");
+const fetch = require("node-fetch");tdxddnk 
 const kntl = require("./configs/config.json")k
 const { Database } = require("quickmongo");
 const db = new Database(process.env.Zarc);
